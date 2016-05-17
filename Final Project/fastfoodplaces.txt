@@ -1,0 +1,27 @@
+KFC 691 Eddy Street San Francisco
+KFC 1881 Geary Boulevard San Francisco
+KFC 1150 Taraval Street San Francisco
+KFC 2101 Lombard Street San Francisco
+KFC 4150 Geary Boulevard San Francisco
+KFC 200 Duboce Avenue San Francisco
+KFC 1900 Irving Street San Francisco
+KFC 4285 Mission St. San Francisco
+KFC 2040 Ocean Avenue San Francisco
+KFC 2815 Geneva Avenue Daly City
+McDonald's 441 Sutter St San Francisco
+McDonald's 235 Front St San Francisco
+McDonald's 575 Market St San Francisco
+McDonald's 701 3rd St San Francisco
+McDonald's 1100 Fillmore St San Francisco
+McDonald's 2801 Mission St San Francisco
+McDonald's 345 Bayshore Blvd San Francisco
+McDonald's 609 Market St San Francisco
+McDonald's 302 Potrero Ave San Francisco
+McDonald's 2011 Mission St San Francisco
+Starbucks 505 Sansome St San Francisco
+Starbucks 689 Townsend St San Francisco
+Starbucks 343 Sansome St San Francisco
+Starbucks 2727 Mariposa St San Francisco
+Starbucks 1 Letterman Dr San Francisco
+Starbucks 3595 California St San Francisco
+

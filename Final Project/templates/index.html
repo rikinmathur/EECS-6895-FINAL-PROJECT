@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+  <title>Google Maps Multiple Markers</title> 
+  <script src="http://maps.google.com/maps/api/js?sensor=false" 
+          type="text/javascript"></script>
+   <meta http-equiv="content-type" content="text/html"> 
+      <meta name="viewport" content="initial-scale=1.0" user-scalable="no">
+    <meta charset="utf-8">
+    <style>
+
+body {
+    font-family: 'Roboto','sans-serif'
+    background-color:#c63d0f;;
+}
+
+#map {
+  height: 100%;
+  float: right;
+  width: 70%;
+  height: 100%;
+}
+
+
+</style>
+  </head>
+  
+  <body>
+<h1><b>Find local ambience </b> and a Restroom near you</h1>
+    <div id="right-panel">
+<script type="text/javascript">
+</script>
+ <form action="/my_form_post"  autocomplete="on" method="POST">
+        <input type="text" name="text">
+        <input type="submit" name="my-form" value="Find now!">
+            </form>
+
+
+
+ </div>
+
+<div id="map" style="width: 1700px; height: 800px">
+
+<script type="text/javascript">
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 10,
+      center: new google.maps.LatLng(37.7757274,-122.4200071),
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    });
+
+  </script>
+      </div>
+
+</body>
+</html>

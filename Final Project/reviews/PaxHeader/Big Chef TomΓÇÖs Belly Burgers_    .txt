@@ -1,0 +1,4 @@
+98 path=BIG_DATA_PROJECT/yelp-1.0.1/Final Project/reviews/Big Chef Tom’s Belly Burgers
+    .txt
+27 mtime=1462870198.259806
+27 atime=1462999618.980869

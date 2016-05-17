@@ -1,0 +1,4 @@
+89 path=BIG_DATA_PROJECT/yelp-1.0.1/Final Project/reviews/Saint Mary’s Square
+    .txt
+27 mtime=1462905735.766492
+27 atime=1462999900.789731

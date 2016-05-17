@@ -1,0 +1,4 @@
+78 path=BIG_DATA_PROJECT/yelp-1.0.1/Final Project/reviews/La Fusión
+    .txt
+27 mtime=1462869603.394004
+27 atime=1462999901.006314

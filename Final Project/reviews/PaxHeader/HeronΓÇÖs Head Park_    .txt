@@ -1,0 +1,4 @@
+87 path=BIG_DATA_PROJECT/yelp-1.0.1/Final Project/reviews/Heron’s Head Park
+    .txt
+27 mtime=1462871941.660311
+27 atime=1462999903.501031

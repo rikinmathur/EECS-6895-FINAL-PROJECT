@@ -1,0 +1,4 @@
+109 path=BIG_DATA_PROJECT/yelp-1.0.1/Final Project/reviews/Golden Gate Park Children’s Playground
+    .txt
+27 mtime=1462871187.409331
+27 atime=1462999902.109284

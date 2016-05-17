@@ -1,0 +1,748 @@
+Top words in Big Chef Tom’s Belly Burgers 	
+	Word: serious, TF-IDF: 0.0
+	Word: Philly, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in Sea Lion Center 	
+Word: 'd, TF-IDF: 0.0
+	Word: Ah, TF-IDF: 0.0
+	Word: push, TF-IDF: 0.0
+Top words in Socola Chocolatier + Barista 	
+Word: Apparently, TF-IDF: 0.0
+	Word: Brb, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Russian Hill Park 	Word: the, TF-IDF: 0.0
+	Word: park/reservoir, TF-IDF: 0.0
+	Word: left, TF-IDF: 0.0
+Top words in Chenery House 	Word: Apparently, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in San Francisco Botanical Garden 	Word: 7:30am-9am, TF-IDF: 0.0
+	Word: Spanish, TF-IDF: 0.0
+	Word: gardens, TF-IDF: 0.0
+Top words in Marina Green Park 	Word: hello, TF-IDF: 0.0
+	Word: restored, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Shakespeare Garden 	Word: rule, TF-IDF: 0.0
+	Word: compete, TF-IDF: 0.0
+	Word: gardens, TF-IDF: 0.0
+Top words in West Bluff Picnic Area & Beach 	Word: banners, TF-IDF: 0.0
+	Word: Apparently, TF-IDF: 0.0
+	Word: non-native, TF-IDF: 0.0
+Top words in Parkside Square 	Word: time, TF-IDF: 0.0
+	Word: walker, TF-IDF: 0.0
+	Word: serious, TF-IDF: 0.0
+Top words in Basa Seafood Express 	Word: original, TF-IDF: 0.0
+	Word: bit.ly/1WqhULY, TF-IDF: 0.0
+	Word: stick, TF-IDF: 0.0
+Top words in San Francisco Railway Museum and Gift Shop 	Word: coat, TF-IDF: 0.0
+	Word: space, TF-IDF: 0.0
+	Word: portion, TF-IDF: 0.0
+Top words in Yerba Buena Center For the Arts 	Word: gardens, TF-IDF: 0.0
+	Word: Fumihiko, TF-IDF: 0.0
+	Word: liver, TF-IDF: 0.0
+Top words in Saint Mary’s Square 	Word: time, TF-IDF: 0.0
+	Word: serious, TF-IDF: 0.0
+	Word: meander, TF-IDF: 0.0
+Top words in Vallejo Street Steps 	Word: starting, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in California Academy of Sciences 	Word: lasted, TF-IDF: 0.0
+	Word: gardens, TF-IDF: 0.0
+	Word: 8th, TF-IDF: 0.0
+Top words in Fine Arts Museums Of San Francisco Top words in Legion of Honor 	Word: 15-20, TF-IDF: 0.0
+	Word: lives, TF-IDF: 0.0
+	Word: prochaine, TF-IDF: 0.0
+Top words in Double Decker 	Word: fresh, TF-IDF: 0.0
+	Word: buffalo, TF-IDF: 0.0
+	Word: stroller, TF-IDF: 0.0
+Top words in Crissy Field 	Word: Site, TF-IDF: 0.0
+	Word: validation, TF-IDF: 0.0
+	Word: 8th, TF-IDF: 0.0
+Top words in South Park 	Word: stroll.Lush, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: updates, TF-IDF: 0.0
+Top words in Sidney Walton Park 	Word: the, TF-IDF: 0.0
+	Word: Gateway, TF-IDF: 0.0
+	Word: If, TF-IDF: 0.0
+Top words in La Fusión 	Word: fresh, TF-IDF: 0.0
+	Word: Chicken, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Oakhurst Lane 	Word: left, TF-IDF: 0.0
+	Word: you.Bring, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Museum of the African Diaspora 	Word: watercolors, TF-IDF: 0.0
+	Word: validation, TF-IDF: 0.0
+	Word: expands, TF-IDF: 0.0
+Top words in SS Jeremiah O’Brien 	Word: 15-20, TF-IDF: 0.0
+	Word: understand, TF-IDF: 0.0
+	Word: retirees, TF-IDF: 0.0
+Top words in Fay Park 	Word: 2005, TF-IDF: 0.0
+	Word: commissioned, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in Fort Miley 	Word: at, TF-IDF: 0.0
+	Word: expands, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Pier 24 	Word: Avedon, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Juri Commons 	Word: the, TF-IDF: 0.0
+	Word: Apparently, TF-IDF: 0.0
+	Word: playing, TF-IDF: 0.0
+Top words in Academy of Art University Automobile Museum 	Word: the, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+	Word: Technically, TF-IDF: 0.0
+Top words in Lands End Trail 	Word: hikes, TF-IDF: 0.0
+	Word: portion, TF-IDF: 0.0
+	Word: Picked, TF-IDF: 0.0
+Top words in Mission Creek Dog Park 	Word: South, TF-IDF: 0.0
+	Word: ranks, TF-IDF: 0.0
+	Word: understand, TF-IDF: 0.0
+Top words in Alamo Square 	Word: yelp, TF-IDF: 0.0
+	Word: portion, TF-IDF: 0.0
+	Word: hereAn, TF-IDF: 0.0
+Top words in Olafur Eliasson Exhibit 	Word: time, TF-IDF: 0.0
+	Word: So, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in John McLaren Park 	Word: portion, TF-IDF: 0.0
+	Word: lift, TF-IDF: 0.0
+	Word: rural, TF-IDF: 0.0
+Top words in San Francisco Maritime National Park Association 	Word: 2009, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: restored, TF-IDF: 0.0
+Top words in 343 Sansome Rooftop Deck 	Word: itEnjoy, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Crocker Galleria Roof Terrace 	Word: alright, TF-IDF: 0.0
+	Word: fresh, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Box Kitchen 	Word: So, TF-IDF: 0.0
+	Word: underrated, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in Super Duper Burgers 	Word: SUPER, TF-IDF: 0.0
+	Word: stroller, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Contemporary Jewish Museum 	Word: far, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: basically, TF-IDF: 0.0
+Top words in Maritime Museum - San Francsco Maritime National Historical Park 	Word: time, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Grandview Park 	Word: Site, TF-IDF: 0.0
+	Word: mosaics, TF-IDF: 0.0
+	Word: ticketed, TF-IDF: 0.0
+Top words in Strawberry Hill 	Word: gardens, TF-IDF: 0.0
+	Word: profits, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in State Bird Provisions 	Word: friends, TF-IDF: 0.0
+	Word: blogs, TF-IDF: 0.0
+	Word: portion, TF-IDF: 0.0
+Top words in Buena Vista Park 	Word: far, TF-IDF: 0.0
+	Word: cookbook, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Portsmouth Square 	Word: friends, TF-IDF: 0.0
+	Word: Site, TF-IDF: 0.0
+	Word: intentionally, TF-IDF: 0.0
+Top words in Starboard SF 	Word: fresh, TF-IDF: 0.0
+	Word: berries, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in Rove Kitchen 	Word: Chicken, TF-IDF: 0.0
+	Word: roughly, TF-IDF: 0.0
+	Word: Apparently, TF-IDF: 0.0
+Top words in Treasure Island Museum 	Word: was, TF-IDF: 0.0
+	Word: the, TF-IDF: 0.0
+	Word: history, TF-IDF: 0.0
+Top words in The Spice Jar 	Word: accidents, TF-IDF: 0.0
+	Word: SUPER, TF-IDF: 0.0
+	Word: stroller, TF-IDF: 0.0
+Top words in Saigon Sandwich 	Word: fresh, TF-IDF: 0.0
+	Word: Chicken, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in Coit Tower 	Word: friends, TF-IDF: 0.0
+	Word: awake, TF-IDF: 0.0
+	Word: gardens, TF-IDF: 0.0
+Top words in Sutro Heights Park 	Word: BBBEEEAAAUUUTTTTIIIIFFFUULLLL, TF-IDF: 0.0
+	Word: jewel, TF-IDF: 0.0
+	Word: gardens, TF-IDF: 0.0
+Top words in Little Skillet 	Word: cold.Ribs, TF-IDF: 0.0
+	Word: sounded, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Crepes A Go Go 	Word: fresh, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Glen Canyon Park 	Word: portion, TF-IDF: 0.0
+	Word: Safeway, TF-IDF: 0.0
+	Word: searched, TF-IDF: 0.0
+Top words in Friends of Esprit Park 	Word: urine.While, TF-IDF: 0.0
+	Word: precedent, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Jessie Square 	Word: Examiner, TF-IDF: 0.0
+	Word: walked, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in George Sterling Park 	Word: Al, TF-IDF: 0.0
+	Word: walked, TF-IDF: 0.0
+	Word: As, TF-IDF: 0.0
+Top words in Boudin Museum and Bakery Tour 	Word: fresh, TF-IDF: 0.0
+	Word: baked, TF-IDF: 0.0
+	Word: original, TF-IDF: 0.0
+Top words in Balboa Park 	Word: 12, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Edgehill Mountain Park 	Word: the, TF-IDF: 0.0
+	Word: Knockash, TF-IDF: 0.0
+	Word: fact, TF-IDF: 0.0
+Top words in Octagon House 	Word: SUPER, TF-IDF: 0.0
+	Word: original, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Hyde Vallejo Mini Park 	Word: time, TF-IDF: 0.0
+	Word: So, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in Lands End 	Word: friends, TF-IDF: 0.0
+	Word: cliff, TF-IDF: 0.0
+	Word: hiked, TF-IDF: 0.0
+Top words in Linden Hayes Fine Art 	Word: distinctive, TF-IDF: 0.0
+	Word: the, TF-IDF: 0.0
+	Word: original, TF-IDF: 0.0
+Top words in Lee Friedlander 	Word: years, TF-IDF: 0.0
+	Word: dimension, TF-IDF: 0.0
+	Word: 1950, TF-IDF: 0.0
+Top words in National Japanese American Historical Society 	Word: pamphlets, TF-IDF: 0.0
+	Word: volumes, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+Top words in The International Art Museum of America 	Word: Spanish, TF-IDF: 0.0
+	Word: understand, TF-IDF: 0.0
+	Word: gardens, TF-IDF: 0.0
+Top words in Dolores Park 	Word: rule, TF-IDF: 0.0
+	Word: write, TF-IDF: 0.0
+	Word: understand, TF-IDF: 0.0
+Top words in Bernal Heights Park 	Word: 15-20, TF-IDF: 0.0
+	Word: gardens, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in The Panhandle 	Word: Page, TF-IDF: 0.0
+	Word: accidents, TF-IDF: 0.0
+	Word: Ever, TF-IDF: 0.0
+Top words in Exploratorium After Dark 	Word: yell, TF-IDF: 0.0
+	Word: validation, TF-IDF: 0.0
+	Word: no-kids, TF-IDF: 0.0
+Top words in Randall Museum 	Word: exhibits, TF-IDF: 0.0
+	Word: or, TF-IDF: 0.0
+	Word: If, TF-IDF: 0.0
+Top words in Popeyes Chicken & Biscuits 	Word: Chicken, TF-IDF: 0.0
+	Word: original, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in USS Pampanito 	Word: 12/person, TF-IDF: 0.0
+	Word: understand, TF-IDF: 0.0
+	Word: augmented, TF-IDF: 0.0
+Top words in Queen Wilhelmina Tulip Garden 	Word: time, TF-IDF: 0.0
+	Word: understand, TF-IDF: 0.0
+	Word: gardens, TF-IDF: 0.0
+Top words in Orizaba Shields Rocky Outcrop Park 	Word: time, TF-IDF: 0.0
+	Word: fresh, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Tenderloin Museum 	Word: reception, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Golden Gate Park 	Word: worriesThese, TF-IDF: 0.0
+	Word: gardens, TF-IDF: 0.0
+	Word: 8th, TF-IDF: 0.0
+Top words in San Francisco Maritime National Historical Park 	Word: Discover, TF-IDF: 0.0
+	Word: paddlewheel, TF-IDF: 0.0
+	Word: Fisherman, TF-IDF: 0.0
+Top words in Golden Gate Heights Park 	Word: time, TF-IDF: 0.0
+	Word: shine, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Rincon Park 	Word: time, TF-IDF: 0.0
+	Word: walker, TF-IDF: 0.0
+	Word: fresh, TF-IDF: 0.0
+Top words in One Kearny 	Word: requires, TF-IDF: 0.0
+	Word: gardens, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Allyne Park 	Word: alright, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Cayuga Playground 	Word: time, TF-IDF: 0.0
+	Word: far, TF-IDF: 0.0
+	Word: gardens, TF-IDF: 0.0
+Top words in Richmond Recreation Center 	Word: laundromat, TF-IDF: 0.0
+	Word: mobilized, TF-IDF: 0.0
+	Word: songs, TF-IDF: 0.0
+Top words in Raymond Kimbell Playground 	Word: mask, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: So, TF-IDF: 0.0
+Top words in Umami Burger 	Word: Thick, TF-IDF: 0.0
+	Word: strings, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Dorothy W Erskine Park 	Word: the, TF-IDF: 0.0
+	Word: loud, TF-IDF: 0.0
+	Word: If, TF-IDF: 0.0
+Top words in Twin Peaks 	Word: portion, TF-IDF: 0.0
+	Word: Spanish, TF-IDF: 0.0
+	Word: accidents, TF-IDF: 0.0
+Top words in Museo ItaloAmericano 	Word: At, TF-IDF: 0.0
+	Word: Copia, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in The Soapbox Cafe 	Word: Daaammmm, TF-IDF: 0.0
+	Word: baked, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Sue Bierman Park 	Word: painting, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: came, TF-IDF: 0.0
+Top words in Lord George 	Word: SUPER, TF-IDF: 0.0
+	Word: sounded, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Pemberton Steps 	Word: having, TF-IDF: 0.0
+	Word: wind, TF-IDF: 0.0
+	Word: If, TF-IDF: 0.0
+Top words in Speedway Meadow 	Word: buffalo, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Hops & Hominy 	Word: Oakland, TF-IDF: 0.0
+	Word: baked, TF-IDF: 0.0
+	Word: sounded, TF-IDF: 0.0
+Top words in The Poet’s Gallery 	Word: the, TF-IDF: 0.0
+	Word: or, TF-IDF: 0.0
+	Word: eye/ear, TF-IDF: 0.0
+Top words in Hawk Hill Park 	Word: As, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: berries, TF-IDF: 0.0
+Top words in El Farolito 	Word: once, TF-IDF: 0.0
+	Word: SUPER, TF-IDF: 0.0
+	Word: evenly, TF-IDF: 0.0
+Top words in Lily Pond 	Word: time.Lily, TF-IDF: 0.0
+	Word: starting, TF-IDF: 0.0
+	Word: If, TF-IDF: 0.0
+Top words in Upper Douglass Dog Park 	Word: broncho, TF-IDF: 0.0
+	Word: portion, TF-IDF: 0.0
+	Word: Muddy, TF-IDF: 0.0
+Top words in Huffaker Park 	Word: the, TF-IDF: 0.0
+	Word: gardens, TF-IDF: 0.0
+	Word: wine, TF-IDF: 0.0
+Top words in Stones Throw 	Word: portion, TF-IDF: 0.0
+	Word: Spanish, TF-IDF: 0.0
+	Word: baked, TF-IDF: 0.0
+Top words in The Presidio 	Word: jewel, TF-IDF: 0.0
+	Word: hikes, TF-IDF: 0.0
+	Word: Spanish, TF-IDF: 0.0
+Top words in Ina Coolbrith Park 	Word: As, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Park and Dog Park 	Word: fertilize, TF-IDF: 0.0
+	Word: portion, TF-IDF: 0.0
+	Word: lives, TF-IDF: 0.0
+Top words in San Francisco Museum of Modern Art.txt 	Word: time, TF-IDF: 0.0
+	Word: 'M, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in Plaza Park 	Word: time, TF-IDF: 0.0
+	Word: fresh, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in Noe Court Playground 	Word: As, TF-IDF: 0.0
+	Word: Street, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+Top words in WaaTeeKaa Train 	Word: corporate, TF-IDF: 0.0
+	Word: spend, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in The Beat Museum 	Word: portion, TF-IDF: 0.0
+	Word: tonnes, TF-IDF: 0.0
+	Word: expletives, TF-IDF: 0.0
+Top words in Great Meadow Park at Fort Mason 	Word: ex-frat, TF-IDF: 0.0
+	Word: meander, TF-IDF: 0.0
+	Word: ticketed, TF-IDF: 0.0
+Top words in Museum of Vision 	Word: the, TF-IDF: 0.0
+	Word: came, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in West Sunset Playground 	Word: neighborhood.It, TF-IDF: 0.0
+	Word: SatYoga, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in San Francisco Museum and Historical Society 	Word: so, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: the, TF-IDF: 0.0
+Top words in Gulf of the Farrallones National Marine Sanctuary 	Word: Street, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: starting, TF-IDF: 0.0
+Top words in Victoria Manalo Draves Park 	Word: starting, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Mount Sutro 	Word: far, TF-IDF: 0.0
+	Word: Apparently, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Cable Car Restaurant 	Word: fresh, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Golden Gate Park Children’s Playground 	Word: pods, TF-IDF: 0.0
+	Word: stacks, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Woh Hei Yuen Park 	Word: Street, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in Seward Street Slides 	Word: rule, TF-IDF: 0.0
+	Word: lives, TF-IDF: 0.0
+	Word: sleds.Also, TF-IDF: 0.0
+Top words in McKinley Square 	Word: SUPER, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: yelp.com/biz/byobw-bring…, TF-IDF: 0.0
+Top words in Bernal Heights Hill 	Word: having, TF-IDF: 0.0
+	Word: furbabies, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Hopwater Distribution 	Word: fresh, TF-IDF: 0.0
+	Word: platter, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Taco Bell 	Word: fresh, TF-IDF: 0.0
+	Word: Chicken, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Empire Park 	Word: Empire, TF-IDF: 0.0
+	Word: came, TF-IDF: 0.0
+	Word: If, TF-IDF: 0.0
+Top words in Fort Funston 	Word: hiked, TF-IDF: 0.0
+	Word: portion, TF-IDF: 0.0
+	Word: spouts, TF-IDF: 0.0
+Top words in Pritikin Museum at Chenery House 	Word: model, TF-IDF: 0.0
+	Word: consisted, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Alta Plaza Park 	Word: kinda, TF-IDF: 0.0
+	Word: friends, TF-IDF: 0.0
+	Word: South, TF-IDF: 0.0
+Top words in Cole Valley Dog Park 	Word: attacking, TF-IDF: 0.0
+	Word: fact, TF-IDF: 0.0
+	Word: wine, TF-IDF: 0.0
+Top words in Jack Early Park 	Word: Oakland, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Deluxe Burgers 	Word: buffalo, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Potrero del Sol Park 	Word: Beyond, TF-IDF: 0.0
+	Word: section, TF-IDF: 0.0
+	Word: Technically, TF-IDF: 0.0
+Top words in Crocker Amazon Playground 	Word: Asian, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: pellets, TF-IDF: 0.0
+Top words in Aquatic Park 	Word: At, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: it.From, TF-IDF: 0.0
+Top words in Brannan Street Wharf 	Word: order, TF-IDF: 0.0
+	Word: talk, TF-IDF: 0.0
+	Word: left, TF-IDF: 0.0
+Top words in Kidpower Park 	Word: Spanish, TF-IDF: 0.0
+	Word: 2009, TF-IDF: 0.0
+	Word: stick, TF-IDF: 0.0
+Top words in Sun Terrace 	Word: fact, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: kickin, TF-IDF: 0.0
+Top words in Civic Center Plaza Top words in Jackson Playground 	Word: bleacher, TF-IDF: 0.0
+	Word: starting, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in Starr King Open Space 	Word: meander, TF-IDF: 0.0
+	Word: starting, TF-IDF: 0.0
+	Word: typical, TF-IDF: 0.0
+Top words in Corona Heights Park 	Word: time, TF-IDF: 0.0
+	Word: everywhere, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Madame Tussauds San Francisco 	Word: Empire, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Jefferson Square Park 	Word: warm, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: kickin, TF-IDF: 0.0
+Top words in Military Intelligence Service Historic Learning Center 	Word: Sat, TF-IDF: 0.0
+	Word: weekends, TF-IDF: 0.0
+	Word: overdue, TF-IDF: 0.0
+Top words in Walter Haas Park and Playground 	Word: starting, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: degrade, TF-IDF: 0.0
+Top words in Pier 14 	Word: 2009, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Yerba Buena Gardens 	Word: South, TF-IDF: 0.0
+	Word: entertainment, TF-IDF: 0.0
+	Word: gardens, TF-IDF: 0.0
+Top words in Huntington Park 	Word: overseas, TF-IDF: 0.0
+	Word: tanned, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in The Interval At Long Now 	Word: Crackers, TF-IDF: 0.0
+	Word: friends, TF-IDF: 0.0
+	Word: lives, TF-IDF: 0.0
+Top words in Musée Mécanique 	Word: kinda, TF-IDF: 0.0
+	Word: friends, TF-IDF: 0.0
+	Word: starting, TF-IDF: 0.0
+Top words in Bootleg Tavern 	Word: time, TF-IDF: 0.0
+	Word: far, TF-IDF: 0.0
+	Word: hello, TF-IDF: 0.0
+Top words in Dahlia Dell at Golden Gate Park 	Word: time, TF-IDF: 0.0
+	Word: Apparently, TF-IDF: 0.0
+	Word: stroller, TF-IDF: 0.0
+Top words in Lafayette Park 	Word: yelp, TF-IDF: 0.0
+	Word: uberyoung, TF-IDF: 0.0
+	Word: portion, TF-IDF: 0.0
+Top words in McCoppin Square 	Word: faster, TF-IDF: 0.0
+	Word: Street, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+Top words in China Basin Park 	Word: time, TF-IDF: 0.0
+	Word: walker, TF-IDF: 0.0
+	Word: Oakland, TF-IDF: 0.0
+Top words in Gregangelo & Velocity Arts & Entertainment 	Word: raving, TF-IDF: 0.0
+	Word: wow, TF-IDF: 0.0
+	Word: If, TF-IDF: 0.0
+Top words in Warm Water Cove 	Word: Apparently, TF-IDF: 0.0
+	Word: original, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Washington Square Park 	Word: everywhere, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Museum of Craft and Design 	Word: requires, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Jack In The Box 	Word: Chicken, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Hyde Street Pier 	Word: lasted, TF-IDF: 0.0
+	Word: OOT, TF-IDF: 0.0
+	Word: Fisherman, TF-IDF: 0.0
+Top words in Mount Davidson Park 	Word: Apparently, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Pine Lake Park 	Word: April, TF-IDF: 0.0
+	Word: friends, TF-IDF: 0.0
+	Word: Thus, TF-IDF: 0.0
+Top words in Union Square Park 	Word: coat, TF-IDF: 0.0
+	Word: intentionally, TF-IDF: 0.0
+	Word: portion, TF-IDF: 0.0
+Top words in Chinese Historical Society of America 	Word: banners, TF-IDF: 0.0
+	Word: starting, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in Museum of Russian Culture 	Word: volunteers, TF-IDF: 0.0
+	Word: Apparently, TF-IDF: 0.0
+	Word: spend, TF-IDF: 0.0
+Top words in West Portal Playground 	Word: jungle, TF-IDF: 0.0
+	Word: clean, TF-IDF: 0.0
+	Word: the, TF-IDF: 0.0
+Top words in Cable Car Museum 	Word: friends, TF-IDF: 0.0
+	Word: 15-20, TF-IDF: 0.0
+	Word: lives, TF-IDF: 0.0
+Top words in Wells Fargo History Museum 	Word: once, TF-IDF: 0.0
+	Word: original, TF-IDF: 0.0
+	Word: basically, TF-IDF: 0.0
+Top words in Golden Gate National Recreation Area 	Word: starting, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Arion Press 	Word: yell, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Maritime Plaza Park 	Word: Gateway, TF-IDF: 0.0
+	Word: Street, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in Asian Art Museum 	Word: Discover, TF-IDF: 0.0
+	Word: profit, TF-IDF: 0.0
+	Word: portion, TF-IDF: 0.0
+Top words in Upper Noe Recreation Center 	Word: Apparently, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Potrero Hill Recreation Center 	Word: far, TF-IDF: 0.0
+	Word: fresh, TF-IDF: 0.0
+	Word: Apparently, TF-IDF: 0.0
+Top words in Mission Creek Parks 	Word: time, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Lake Merced 	Word: portion, TF-IDF: 0.0
+	Word: compete, TF-IDF: 0.0
+	Word: yell, TF-IDF: 0.0
+Top words in South Sunset Park 	Word: searched, TF-IDF: 0.0
+	Word: alright, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Sydney G. Walton Square 	Word: er, TF-IDF: 0.0
+	Word: review, TF-IDF: 0.0
+	Word: wind, TF-IDF: 0.0
+Top words in Alta Plaza Playground 	Word: Apparently, TF-IDF: 0.0
+	Word: stroller, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Pacific Heritage Museum 	Word: 10a-4pm, TF-IDF: 0.0
+	Word: original, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in The Walt Disney Family Museum 	Word: hikes, TF-IDF: 0.0
+	Word: portion, TF-IDF: 0.0
+	Word: lives, TF-IDF: 0.0
+Top words in Brooks Park 	Word: 2008, TF-IDF: 0.0
+	Word: 2009, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in GLBT History Museum 	Word: oral, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: hope, TF-IDF: 0.0
+Top words in Believe It Or Not! Odditorium 	Word: TOUR, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in Douglass Playground 	Word: playing, TF-IDF: 0.0
+	Word: fact, TF-IDF: 0.0
+	Word: If, TF-IDF: 0.0
+Top words in Parque Ninos Unidos 	Word: time, TF-IDF: 0.0
+	Word: baked, TF-IDF: 0.0
+	Word: overdue, TF-IDF: 0.0
+Top words in de Young Friday Nights 	Word: ticketed, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: stick, TF-IDF: 0.0
+Top words in Candlestick Point State Recreation Area 	Word: Orchestra, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Bay Area Discovery Museum 	Word: lasted, TF-IDF: 0.0
+	Word: macchiato, TF-IDF: 0.0
+	Word: understand, TF-IDF: 0.0
+Top words in Mission Dolores 	Word: lives, TF-IDF: 0.0
+	Word: Philly, TF-IDF: 0.0
+	Word: gardens, TF-IDF: 0.0
+Top words in Garden for the Environment 	Word: baked, TF-IDF: 0.0
+	Word: gardens, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Moscone Recreation Center 	Word: Lowlights, TF-IDF: 0.0
+	Word: Street, TF-IDF: 0.0
+	Word: At, TF-IDF: 0.0
+Top words in California Historical Society 	Word: Fisherman, TF-IDF: 0.0
+	Word: Apparently, TF-IDF: 0.0
+	Word: original, TF-IDF: 0.0
+Top words in Rainbow Falls 	Word: so, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: the, TF-IDF: 0.0
+Top words in Roam Artisan Burgers 	Word: 15-20, TF-IDF: 0.0
+	Word: fresh, TF-IDF: 0.0
+	Word: sounded, TF-IDF: 0.0
+Top words in Holly Park 	Word: time, TF-IDF: 0.0
+	Word: push, TF-IDF: 0.0
+	Word: fresh, TF-IDF: 0.0
+Top words in The Mexican Museum 	Word: implied, TF-IDF: 0.0
+	Word: Asian, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+Top words in Presidio Heights Playground 	Word: As, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: fresh, TF-IDF: 0.0
+Top words in Koshland Park 	Word: So, TF-IDF: 0.0
+	Word: the, TF-IDF: 0.0
+	Word: playing, TF-IDF: 0.0
+Top words in Hippie Hill 	Word: portion, TF-IDF: 0.0
+	Word: Spanish, TF-IDF: 0.0
+	Word: understand, TF-IDF: 0.0
+Top words in Transamerica Redwood Park 	Word: So, TF-IDF: 0.0
+	Word: Oakland, TF-IDF: 0.0
+	Word: others, TF-IDF: 0.0
+Top words in No No Burger 	Word: Oakland, TF-IDF: 0.0
+	Word: baked, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Franklin Square Park 	Word: blustering, TF-IDF: 0.0
+	Word: starting, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Tank Hill 	Word: yelp, TF-IDF: 0.0
+	Word: fending, TF-IDF: 0.0
+	Word: gardens, TF-IDF: 0.0
+Top words in Children’s Creativity Museum 	Word: pricey, TF-IDF: 0.0
+	Word: Private, TF-IDF: 0.0
+	Word: lego's.All, TF-IDF: 0.0
+Top words in Presidio Visitor Center 	Word: Native, TF-IDF: 0.0
+	Word: where, TF-IDF: 0.0
+	Word: history, TF-IDF: 0.0
+Top words in Piano Studio 	Word: so, TF-IDF: 0.0
+	Word: very, TF-IDF: 0.0
+	Word: the, TF-IDF: 0.0
+Top words in De Young Sculpture Garden 	Word: Herring, TF-IDF: 0.0
+	Word: patio, TF-IDF: 0.0
+	Word: installationists, TF-IDF: 0.0
+Top words in Hot Spud 	Word: time, TF-IDF: 0.0
+	Word: fresh, TF-IDF: 0.0
+	Word: baked, TF-IDF: 0.0
+Top words in Chez Maman 	Word: baked, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Pioneer Park 	Word: stone-lined, TF-IDF: 0.0
+	Word: came, TF-IDF: 0.0
+	Word: If, TF-IDF: 0.0
+Top words in Bayview Park 	Word: lives, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Valencia Parklet 	Word: requires, TF-IDF: 0.0
+	Word: order, TF-IDF: 0.0
+	Word: fact, TF-IDF: 0.0
+Top words in The American Bookbinders Museum 	Word: As, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: iPad-Kindle-Nook, TF-IDF: 0.0
+Top words in Super Duper Burger 	Word: once, TF-IDF: 0.0
+	Word: hello, TF-IDF: 0.0
+	Word: eastwards, TF-IDF: 0.0
+Top words in Chain of Lakes 	Word: An, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: everywhere, TF-IDF: 0.0
+Top words in Presidio Officers’ Club 	Word: Spanish, TF-IDF: 0.0
+	Word: dominoes, TF-IDF: 0.0
+	Word: retirees, TF-IDF: 0.0
+Top words in Street Taco 	Word: Chicken, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+	Word: evenly, TF-IDF: 0.0
+Top words in Big Mouth Burgers 	Word: serious, TF-IDF: 0.0
+	Word: resolution, TF-IDF: 0.0
+	Word: restored, TF-IDF: 0.0
+Top words in Heron’s Head Park 	Word: fresh, TF-IDF: 0.0
+	Word: Oakland, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in Tactile Dome 	Word: its, TF-IDF: 0.0
+	Word: original, TF-IDF: 0.0
+	Word: If, TF-IDF: 0.0
+Top words in Gourmet Hamburgers 	Word: Oakland, TF-IDF: 0.0
+	Word: sounded, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Rose Garden 	Word: time, TF-IDF: 0.0
+	Word: wake, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in Hot Sauce and Panko 	Word: alright, TF-IDF: 0.0
+	Word: Chicken, TF-IDF: 0.0
+	Word: avoid, TF-IDF: 0.0
+Top words in 24th Street Mini Park 	Word: 2007, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: Situated, TF-IDF: 0.0
+Top words in Ferry Park 	Word: time, TF-IDF: 0.0
+	Word: of.My, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Marathon Plaza 	Word: you, TF-IDF: 0.0
+	Word: the, TF-IDF: 0.0
+	Word: Marathon, TF-IDF: 0.0
+Top words in Municipal Pier 	Word: searched, TF-IDF: 0.0
+	Word: 15-20, TF-IDF: 0.0
+	Word: CRABBING, TF-IDF: 0.0
+Top words in Willy Woo Woo Wong Playground 	
+	Word: playing, TF-IDF: 0.0
+	Word: wind, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Good Mong Kok Bakery 	Word: baked, TF-IDF: 0.0
+	Word: noon, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in Rossi Park 	Word: starting, TF-IDF: 0.0
+	Word: spend, TF-IDF: 0.0
+	Word: dogs.Evidently, TF-IDF: 0.0
+Top words in 560 Mission Street Plaza 	Word: mass, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: Apparently, TF-IDF: 0.0
+Top words in Billy Goat Hill 	Word: South, TF-IDF: 0.0
+	Word: cliff, TF-IDF: 0.0
+	Word: yelp, TF-IDF: 0.0
+Top words in Duboce Park 	Word: Soggy, TF-IDF: 0.0
+	Word: rule, TF-IDF: 0.0
+	Word: 2-block, TF-IDF: 0.0
+Top words in San Francisco Welcome Center and History Museum 	Word: time, TF-IDF: 0.0
+	Word: the, TF-IDF: 0.0
+	Word: incomplete, TF-IDF: 0.0
+Top words in Whiz Burgers Drive-In 	Word: time, TF-IDF: 0.0
+	Word: serious, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in The Little Chihuahua 	Word: fresh, TF-IDF: 0.0
+	Word: Chicken, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in Garfield Square & Athletic Field 	Word: Mission, TF-IDF: 0.0
+	Word: time, TF-IDF: 0.0
+	Word: push, TF-IDF: 0.0
+Top words in Stow Lake Waterfalls & Park 	Word: lives, TF-IDF: 0.0
+	Word: gardens, TF-IDF: 0.0
+	Word: more..a, TF-IDF: 0.0
+Top words in Kite Hill Park 	Word: everywhere, TF-IDF: 0.0
+	Word: Oakland, TF-IDF: 0.0
+	Word: having, TF-IDF: 0.0
+Top words in Precita Park 	Word: So, TF-IDF: 0.0
+	Word: shirtless, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0
+Top words in de Young 	Word: portion, TF-IDF: 0.0
+	Word: art.Do, TF-IDF: 0.0
+	Word: gardens, TF-IDF: 0.0
+Top words in International Museum of Women 	Word: 2004, TF-IDF: 0.0
+	Word: the, TF-IDF: 0.0
+	Word: once, TF-IDF: 0.0

@@ -1,0 +1,4 @@
+88 path=BIG_DATA_PROJECT/yelp-1.0.1/Final Project/reviews/The Poet’s Gallery
+    .txt
+27 mtime=1462907364.363834
+27 atime=1462999901.884679

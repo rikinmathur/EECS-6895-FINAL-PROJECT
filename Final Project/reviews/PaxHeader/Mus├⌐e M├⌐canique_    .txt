@@ -1,0 +1,4 @@
+85 path=BIG_DATA_PROJECT/yelp-1.0.1/Final Project/reviews/Musée Mécanique
+    .txt
+27 mtime=1462906435.310161
+27 atime=1462999902.602612

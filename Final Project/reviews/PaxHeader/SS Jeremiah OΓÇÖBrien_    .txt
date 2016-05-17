@@ -1,0 +1,4 @@
+89 path=BIG_DATA_PROJECT/yelp-1.0.1/Final Project/reviews/SS Jeremiah O’Brien
+    .txt
+27 mtime=1462906875.772198
+27 atime=1462999901.034389

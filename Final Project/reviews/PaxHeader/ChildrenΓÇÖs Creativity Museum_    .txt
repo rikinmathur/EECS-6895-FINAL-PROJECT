@@ -1,0 +1,4 @@
+98 path=BIG_DATA_PROJECT/yelp-1.0.1/Final Project/reviews/Children’s Creativity Museum
+    .txt
+27 mtime=1462906610.116865
+27 atime=1462999903.220275

@@ -1,0 +1,4 @@
+93 path=BIG_DATA_PROJECT/yelp-1.0.1/Final Project/reviews/Presidio Officers’ Club
+    .txt
+27 mtime=1462906901.461371
+27 atime=1462999903.472956

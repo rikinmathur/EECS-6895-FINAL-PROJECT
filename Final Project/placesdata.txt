@@ -1,0 +1,503 @@
+
+PlaceName,latitude,Longitude,Rating
+
+Big Chef Tom’s Belly Burgers,37.7724609,-122.4165268,4.0
+
+Sea Lion Center,37.8108359747,-122.411076227,3.5
+
+Socola Chocolatier + Barista,37.7865549,-122.395089,4.5
+
+Russian Hill Park,37.8043546701,-122.421426773,5.0
+
+Chenery House,37.7411842346,-122.425041199,4.0
+
+San Francisco Botanical Garden,37.7669237221,-122.466648817,4.5
+
+Marina Green Park,37.806652,-122.439116,4.5
+
+Shakespeare Garden,37.768204378,-122.466959953,4.5
+
+West Bluff Picnic Area & Beach,37.80836836,-122.471343688,4.5
+
+Parkside Square,37.739,-122.48294,4.5
+
+Basa Seafood Express,37.75276,-122.41338,4.5
+
+San Francisco Railway Museum and Gift Shop,37.7936084569,-122.393543869,4.0
+
+Yerba Buena Center For the Arts,37.78574,-122.40255,4.0
+
+Saint Mary’s Square,37.7920450263,-122.405247136,3.5
+
+Vallejo Street Steps,37.7980517935,-122.41288662,4.5
+
+California Academy of Sciences,37.769816,-122.466041,4.0
+
+Fine Arts Museums Of San Francisco,37.8026313782,-122.454650879,1.0
+
+Legion of Honor,37.784927,-122.500802,4.5
+
+Double Decker,37.77757,-122.42407,3.5
+
+Crissy Field,37.8059352974,-122.452283724,5.0
+
+South Park,37.781669,-122.394462,4.0
+
+Sidney Walton Park,37.7969398,-122.3994827,4.5
+
+La Fusión,37.7916357456,-122.403691573,4.5
+
+Oakhurst Lane,37.756465616,-122.461509705,5.0
+
+Museum of the African Diaspora,37.78643,-122.40152,3.0
+
+SS Jeremiah O’Brien,37.8108298027,-122.417876787,5.0
+
+Fay Park,37.8028398116,-122.417910577,4.5
+
+Fort Miley,37.7812980238,-122.503159046,5.0
+
+Pier 24,37.7894251122,-122.387841042,4.5
+
+Juri Commons,37.74997,-122.42138,4.0
+
+Academy of Art University Automobile Museum,37.7928369,-122.423544,5.0
+
+Lands End Trail,37.780077,-122.510029,5.0
+
+Mission Creek Dog Park,37.7701518685,-122.398797646,3.5
+
+Alamo Square,37.7763457776,-122.434719801,4.5
+
+Olafur Eliasson Exhibit,37.7731018066,-122.411277771,5.0
+
+John McLaren Park,37.71804,-122.41413,4.0
+
+San Francisco Maritime National Park Association,37.8098502999,-122.422325878,5.0
+
+343 Sansome Rooftop Deck,37.7932735,-122.4012213,4.5
+
+Crocker Galleria Roof Terrace,37.7891276,-122.4029268,4.0
+
+Box Kitchen,37.7811510761,-122.406365051,4.5
+
+Super Duper Burgers,37.7848389899,-122.403624148,4.0
+
+Contemporary Jewish Museum,37.785944,-122.403802,3.5
+
+Maritime Museum - San Francsco Maritime National Historical Park,37.8063245,-122.4239816,4.5
+
+Grandview Park,37.756377,-122.470933,5.0
+
+Strawberry Hill,37.7686793176,-122.475618124,5.0
+
+State Bird Provisions,37.78374,-122.433005,4.5
+
+Buena Vista Park,37.7690887,-122.4383392,4.0
+
+Portsmouth Square,37.7948013693,-122.40567416,3.5
+
+Starboard SF,37.7650262858,-122.418006957,5.0
+
+Rove Kitchen,37.7877664572,-122.412939659,4.5
+
+Treasure Island Museum,37.817272,-122.370666,5.0
+
+The Spice Jar,37.7543144481,-122.409359223,4.5
+
+Saigon Sandwich,37.7830597444,-122.417336797,4.5
+
+Coit Tower,37.802280426,-122.405845642,4.0
+
+Sutro Heights Park,37.777786,-122.511097,5.0
+
+Little Skillet,37.7788276672,-122.394065857,4.0
+
+Crepes A Go Go,37.7710762024,-122.413414001,4.5
+
+Glen Canyon Park,37.73511602,-122.439943627,4.5
+
+Friends of Esprit Park,37.759462595,-122.389464229,4.0
+
+Jessie Square,37.7866113,-122.4032581,3.5
+
+George Sterling Park,37.8019507974,-122.419665903,4.5
+
+Boudin Museum and Bakery Tour,37.8083445132,-122.415130958,3.5
+
+Balboa Park,37.7249720088,-122.444320009,4.0
+
+Edgehill Mountain Park,37.7416,-122.45924,4.5
+
+Octagon House,37.79779,-122.42743,4.0
+
+Hyde Vallejo Mini Park,37.7973404,-122.4186783,3.5
+
+Lands End,37.780077,-122.510029,5.0
+
+Linden Hayes Fine Art,37.77685,-122.42221,4.5
+
+Lee Friedlander,37.7731018066,-122.411277771,4.5
+
+National Japanese American Historical Society,37.78573,-122.42956,4.0
+
+The International Art Museum of America,37.7815814,-122.4108475,3.5
+
+Dolores Park,37.759764,-122.427052,4.5
+
+Bernal Heights Park,37.7432657659,-122.414903641,4.5
+
+The Panhandle,37.7720775242,-122.445748115,4.0
+
+Exploratorium After Dark,37.8014766916,-122.398552895,4.0
+
+Randall Museum,37.7642690469,-122.438335419,4.5
+
+Popeyes Chicken & Biscuits,37.7748759595,-122.437956662,3.5
+
+USS Pampanito,37.809945,-122.416455,4.5
+
+Queen Wilhelmina Tulip Garden,37.7692198008,-122.508269995,4.5
+
+Orizaba Shields Rocky Outcrop Park,37.7180747986,-122.462722778,4.5
+
+Tenderloin Museum,37.7837949246,-122.41407685,4.0
+
+Golden Gate Park,37.770518,-122.479878,4.5
+
+San Francisco Maritime National Historical Park,37.8075606376,-122.420573831,4.5
+
+Golden Gate Heights Park,37.75082,-122.46898,4.5
+
+Rincon Park,37.7913371759,-122.390012741,4.5
+
+One Kearny,37.7877464,-122.4039383,4.5
+
+Allyne Park,37.79742,-122.42759,4.5
+
+Cayuga Playground,37.7143297344,-122.449589297,4.5
+
+Richmond Recreation Center,37.7832717896,-122.477973938,3.5
+
+Raymond Kimbell Playground,37.7827904165,-122.435116768,4.0
+
+Umami Burger,37.797305755,-122.435245514,4.0
+
+Dorothy W Erskine Park,37.7340302255,-122.439818298,4.0
+
+Twin Peaks,37.7521564122,-122.447519302,4.5
+
+Museo ItaloAmericano,37.8073766387,-122.431125641,4.5
+
+The Soapbox Cafe,37.7974822372,-122.418650687,4.5
+
+Sue Bierman Park,37.7960579842,-122.398903593,5.0
+
+Lord George,37.7824636932,-122.392651699,4.5
+
+Pemberton Steps,37.7586961538,-122.446477264,4.5
+
+Speedway Meadow,37.7689846343,-122.490262985,4.5
+
+Hops & Hominy,37.7892737259,-122.405591254,4.0
+
+The Poet’s Gallery,37.80047,-122.40731,4.0
+
+Hawk Hill Park,37.7466087341,-122.468276978,4.0
+
+El Farolito,37.752654,-122.4181915,4.0
+
+Lily Pond,37.7707147385,-122.461466789,4.0
+
+Upper Douglass Dog Park,37.7463960779,-122.438257777,4.0
+
+Huffaker Park,37.7708282471,-122.390716553,5.0
+
+Stones Throw,37.798122,-122.418579,4.5
+
+The Presidio,37.800862,-122.459043,4.5
+
+Ina Coolbrith Park,37.7979301661,-122.413710058,4.5
+
+Park and Dog Park,37.734052,-122.4223233,4.5
+
+Plaza Park,37.7902966074,-122.43749422,4.5
+
+Noe Court Playground,37.7510199,-122.43848,3.5
+
+WaaTeeKaa Train,37.7915115,-122.3964691,4.5
+
+The Beat Museum,37.7982299,-122.40615,4.0
+
+Great Meadow Park at Fort Mason,37.8062423441,-122.428887003,3.5
+
+Museum of Vision,37.8066101,-122.4196777,4.0
+
+West Sunset Playground,37.7506130876,-122.498127702,4.0
+
+San Francisco Museum and Historical Society,37.786063,-122.405316,2.0
+
+Gulf of the Farrallones National Marine Sanctuary,37.8097593784,-122.476327568,4.5
+
+Victoria Manalo Draves Park,37.7774216111,-122.407023962,3.5
+
+Mount Sutro,37.7605343157,-122.457743354,4.5
+
+Cable Car Restaurant,37.7828298816,-122.4448657,3.5
+
+Golden Gate Park Children’s Playground,37.7683570375,-122.457175255,4.5
+
+Woh Hei Yuen Park,37.7960447769,-122.40999206,4.0
+
+Seward Street Slides,37.7579189398,-122.439813774,4.5
+
+McKinley Square,37.7595249563,-122.404070199,4.5
+
+Bernal Heights Hill,37.7431639584,-122.414216995,4.5
+
+Hopwater Distribution,37.7899538529,-122.411338985,4.5
+
+Taco Bell,37.7786412146,-122.392781787,4.0
+
+Empire Park,37.7940216,-122.4047012,4.5
+
+Fort Funston,37.713768,-122.499361,5.0
+
+Pritikin Museum at Chenery House,37.7411804,-122.4250412,3.0
+
+Alta Plaza Park,37.7902966074,-122.43749422,4.5
+
+Cole Valley Dog Park,37.76601,-122.44969,4.0
+
+Jack Early Park,37.8048834712,-122.408157739,4.5
+
+Deluxe Burgers,37.7877202,-122.4136277,4.0
+
+Potrero del Sol Park,37.7518498152,-122.40422979,4.0
+
+Crocker Amazon Playground,37.7127338201,-122.431617156,3.5
+
+Aquatic Park,37.80666,-122.42055,4.5
+
+Brannan Street Wharf,37.7847485,-122.3878941,5.0
+
+Kidpower Park,37.7641503052,-122.420289516,3.5
+
+Sun Terrace,37.789338,-122.398127,5.0
+
+Civic Center Plaza,37.7795003289,-122.41758585,3.5
+
+Jackson Playground,37.76503,-122.3987,3.5
+
+Starr King Open Space,37.7540374766,-122.400260798,4.0
+
+Corona Heights Park,37.7652326194,-122.439369238,4.5
+
+Madame Tussauds San Francisco,37.8079755309,-122.41428282,4.0
+
+Jefferson Square Park,37.7817745534,-122.425714988,3.5
+
+Military Intelligence Service Historic Learning Center,37.8054691,-122.4687185,5.0
+
+Walter Haas Park and Playground,37.7404829777,-122.434515953,4.0
+
+Pier 14,37.7934603643,-122.391741934,4.5
+
+Yerba Buena Gardens,37.7848643788,-122.402581933,4.5
+
+Huntington Park,37.79171,-122.41172,4.5
+
+The Interval At Long Now,37.8066279497,-122.432121163,4.0
+
+Musée Mécanique,37.8092414665,-122.415847778,4.5
+
+Bootleg Tavern,37.7974891663,-122.42339325,4.5
+
+Dahlia Dell at Golden Gate Park,37.7727125268,-122.457988279,5.0
+
+Lafayette Park,37.7916042474,-122.427656422,4.5
+
+McCoppin Square,37.7428872138,-122.48016648,4.0
+
+China Basin Park,37.7763444185,-122.389851138,3.5
+
+Gregangelo & Velocity Arts & Entertainment,37.7357320642,-122.463708,5.0
+
+Warm Water Cove,37.75421,-122.38597,4.0
+
+Washington Square Park,37.8002066489,-122.410401778,4.5
+
+Museum of Craft and Design,37.757043913,-122.388037294,3.5
+
+Jack In The Box,37.78729,-122.41014,3.0
+
+Hyde Street Pier,37.8082294979,-122.424334488,4.5
+
+Mount Davidson Park,37.73669,-122.45393,4.5
+
+Pine Lake Park,37.7352599,-122.48412,4.5
+
+Union Square Park,37.7878614192,-122.407629377,4.0
+
+Chinese Historical Society of America,37.793766,-122.408851,4.0
+
+Museum of Russian Culture,37.7854003906,-122.440917969,5.0
+
+West Portal Playground,37.7417995781,-122.465436459,3.5
+
+Cable Car Museum,37.79488,-122.41192,4.5
+
+Wells Fargo History Museum,37.7931947261,-122.402694225,4.5
+
+Golden Gate National Recreation Area,37.8305225961,-122.506957054,5.0
+
+Arion Press,37.7882957,-122.4735497,5.0
+
+Maritime Plaza Park,37.79589,-122.4005,5.0
+
+Asian Art Museum,37.7796308,-122.4165973,4.5
+
+Upper Noe Recreation Center,37.7426300795,-122.428580589,4.0
+
+Potrero Hill Recreation Center,37.7557577938,-122.397797182,4.5
+
+Mission Creek Parks,37.77437,-122.39166,4.5
+
+Lake Merced,37.7264197916,-122.501614094,4.0
+
+South Sunset Park,37.7382879,-122.4980761,4.5
+
+Sydney G. Walton Square,37.7972294552,-122.399175167,4.0
+
+Alta Plaza Playground,37.7909708881,-122.438121539,5.0
+
+Pacific Heritage Museum,37.7943094,-122.4033299,4.0
+
+The Walt Disney Family Museum,37.8009002347,-122.45850563,4.5
+
+Brooks Park,37.7179379761,-122.466411442,4.0
+
+GLBT History Museum,37.7606506,-122.4356537,4.0
+
+Believe It Or Not! Odditorium,37.80796,-122.41546,3.5
+
+Douglass Playground,37.7478298545,-122.438140288,4.0
+
+Parque Ninos Unidos,37.75432383,-122.41363796,4.5
+
+de Young Friday Nights,37.7710135281,-122.468233332,4.5
+
+Candlestick Point State Recreation Area,37.709762871,-122.381768059,4.5
+
+Bay Area Discovery Museum,37.8357312643,-122.476688414,4.5
+
+Mission Dolores,37.7643547058,-122.427490234,4.5
+
+Garden for the Environment,37.758540287,-122.46382221,5.0
+
+Moscone Recreation Center,37.8012594581,-122.433103099,4.5
+
+California Historical Society,37.786787,-122.401545,4.0
+
+Rainbow Falls,37.771705,-122.470069,4.0
+
+Roam Artisan Burgers,37.787682,-122.433853,4.0
+
+Holly Park,37.7369279833,-122.42025733,4.5
+
+The Mexican Museum,37.805193,-122.432242,3.0
+
+Presidio Heights Playground,37.78868258,-122.449771017,5.0
+
+Koshland Park,37.7734545936,-122.427339021,4.0
+
+Hippie Hill,37.7717064206,-122.457346916,4.0
+
+Transamerica Redwood Park,37.7951583862,-122.402732849,4.5
+
+No No Burger,37.7697686,-122.4120492,4.5
+
+Franklin Square Park,37.7650335784,-122.409407574,3.5
+
+Tank Hill,37.7598609924,-122.448249817,4.5
+
+Children’s Creativity Museum,37.7831199,-122.40228,4.0
+
+Presidio Visitor Center,37.8013317306,-122.455906469,5.0
+
+Piano Studio,37.7542496,-122.4387817,5.0
+
+De Young Sculpture Garden,37.7711372375,-122.46913147,4.5
+
+Hot Spud,37.8078885376,-122.414005101,4.5
+
+Chez Maman,37.7623455918,-122.397163,4.5
+
+Pioneer Park,37.803195,-122.405877,4.5
+
+Bayview Park,37.7182645351,-122.394607365,4.5
+
+Valencia Parklet,37.7670190071,-122.422015408,4.0
+
+The American Bookbinders Museum,37.7816223353,-122.402685508,4.5
+
+Super Duper Burger,37.7848389899,-122.403624148,4.0
+
+Chain of Lakes,37.768155663,-122.500522685,4.5
+
+Presidio Officers’ Club,37.797547,-122.4589239,4.0
+
+Street Taco,37.7696105177,-122.448901621,4.5
+
+Big Mouth Burgers,37.7522508175,-122.42045136,3.5
+
+Heron’s Head Park,37.7383024883,-122.373265028,4.0
+
+Tactile Dome,37.8013881,-122.3975432,3.5
+
+Gourmet Hamburgers,37.7515,-122.43501,3.5
+
+Rose Garden,37.773129791,-122.471779883,4.5
+
+Hot Sauce and Panko,37.79449,-122.41783,4.5
+
+24th Street Mini Park,37.7528706425,-122.408182648,5.0
+
+Ferry Park,37.7960001695,-122.396857738,4.0
+
+Marathon Plaza,37.7851932326,-122.395763062,4.5
+
+Municipal Pier,37.810623104,-122.424570322,4.5
+
+Willy Woo Woo Wong Playground,37.7934951782,-122.407150269,4.5
+
+Good Mong Kok Bakery,37.79554,-122.40848,4.0
+
+Rossi Park,37.778830422,-122.457647324,4.5
+
+560 Mission Street Plaza,37.7889545652,-122.399093095,4.0
+
+Billy Goat Hill,37.7408628166,-122.432962954,4.0
+
+Duboce Park,37.7691924753,-122.43356711,4.0
+
+San Francisco Welcome Center and History Museum,37.78899,-122.408844,3.0
+
+Whiz Burgers Drive-In,37.76174,-122.41735,3.5
+
+The Little Chihuahua,37.7720399,-122.43688,4.0
+
+Garfield Square & Athletic Field,37.7501628964,-122.412296534,4.5
+
+Stow Lake Waterfalls & Park,37.7689118357,-122.473986556,4.5
+
+Kite Hill Park,37.75895,-122.44218,4.5
+
+Precita Park,37.7467650175,-122.412720323,3.5
+
+de Young,37.771089,-122.468382,4.0
+
+International Museum of Women,37.79142,-122.4026,5.0
+PlaceName,latitude,Longitude,Rating
+
+PlaceName,latitude,Longitude,Rating
